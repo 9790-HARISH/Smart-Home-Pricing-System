@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.inputbox input{
+  height:40px;
+  width:300px;
+  border-radius:15px;
+  margin: 0 10px 0 0;
+  text-align:center;
+}
+.inputbox{
+  margin-top: 5%;
+}
+.p{
+  color:black;
+  font-weight:200;
+}
+h1{
+  color:rgb(0, 0, 0);
+  border:black;
+}          
